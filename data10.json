@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "fname": "medhat",
+        "lname": "hamada",
+        "age": 35,
+        "city": "fayoum"
+    },
+    {
+        "id": "2",
+        "fname": "ahmed",
+        "lname": "osama",
+        "age": 28,
+        "city": "alex"
+    },
+    {
+        "id": "3",
+        "fname": "islam",
+        "lname": "mohammed",
+        "age": 26,
+        "city": "mansoura"
+    },
+    {
+        "id": "4",
+        "fname": "mohammed",
+        "lname": "hamada",
+        "age": 23,
+        "city": "fayoum"
+    },
+    {
+        "id": "5",
+        "fname": "ahmed",
+        "lname": "hamouda",
+        "age": 23,
+        "city": "fayoum"
+    },
+    {
+        "id": "6",
+        "fname": "reem",
+        "lname": "ahmed",
+        "age": 23,
+        "city": "fayoum"
+    },
+    {
+        "id": "7",
+        "fname": "omnia",
+        "lname": "hassan",
+        "age": 23,
+        "city": "fayoum"
+    }
+]
